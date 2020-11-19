@@ -1,0 +1,8 @@
+ASP.NET Web project Compiler - History
+---------------------------------------
+
+1.0.1.0
+- New merge options available
+
+1.0.0.0
+- First release

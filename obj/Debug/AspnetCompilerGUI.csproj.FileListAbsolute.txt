@@ -1,0 +1,17 @@
+c:\AspnetCompilerGUI\obj\Debug\ResolveAssemblyReference.cache
+c:\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.Properties.Resources.resources
+c:\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.csproj.GenerateResource.Cache
+c:\AspnetCompilerGUI\bin\Debug\AspnetCompilerGUI.exe
+c:\AspnetCompilerGUI\bin\Debug\AspnetCompilerGUI.pdb
+c:\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.exe
+c:\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.pdb
+c:\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.FormGUI.resources
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.exe
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.pdb
+D:\Projects\C#\AspnetCompilerGUI\bin\Debug\AspnetCompilerGUI.exe
+D:\Projects\C#\AspnetCompilerGUI\bin\Debug\AspnetCompilerGUI.pdb
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.FormGUI.resources
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.Properties.Resources.resources
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.csproj.GenerateResource.Cache
+D:\Projects\C#\AspnetCompilerGUI\obj\Debug\AspnetCompilerGUI.AboutForm.resources
